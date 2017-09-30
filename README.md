@@ -6,7 +6,7 @@ The description for 2 design patterns from each category can be found here: [Des
 
 **Free Style**  
 
-The description for the free style design patterns can be found here: [Free STyle Design Pattern](https://github.ncsu.edu/scyadav/HW2/blob/master/Free%20Style%20Design%20Pattern.pdf)
+The description for the free style design patterns can be found here: [Free Style Design Pattern](https://github.ncsu.edu/scyadav/HW2/blob/master/Free%20Style%20Design%20Pattern.pdf)
 
 **Selenium**  
 
