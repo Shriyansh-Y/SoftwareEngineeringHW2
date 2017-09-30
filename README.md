@@ -2,30 +2,18 @@
 
 ## OO Patterns
 
-* Creational Patterns:
-The basic form of object creation increses the design complexity and could result in design problems. Creational design patterns deal with object creation mechanisms, creating objects in a manner suitable to the situation and controlling this object creation.
-The two examples of this pattern are:  
-(1) :  
-(2) :  
-* Structural patterns
-* Behavioral patterns
+* The description for 2 design patterns from each category can be found here: [Design Patterns](https://github.ncsu.edu/scyadav/HW2/blob/master/Design%20Patterns.pdf) 
 
-Define and describe 2 design patterns from each category.
 
 
 ## Free Style
 
-Design patterns have been critized for being too specific and artifically limited by OO language constraints. Find and describe any pattern that may be useful in building software.
+The description for the free style design patterns can be found here: [Free STyle Design Pattern](https://github.ncsu.edu/scyadav/HW2/blob/master/Free%20Style%20Design%20Pattern.pdf)
 
 
 ## Selenium
 
-Unit tests using Selenium:  
-
-* The participant count of "Frustration of Software Developers" is 55
-* The total number of studies closed is 5.
-* If a status of a study is open, you can click on a "Participate" button.
-* Check if the "Software Changes Survey" has a Amazon reward image.
+Unit tests using Selenium can be found here: [Selenium Testing](https://github.ncsu.edu/scyadav/HW2/blob/master/WebTest.java)
 
 
 ## References:  
